@@ -7,3 +7,5 @@ You can check the tutorial to learn how to use it with some examples.
 
 If this code is helpful for you, feel free to use and reference it. If you are interested, an implementation of the VQT in the context of 
 Quantum Thermodynamics can be found [here](https://github.com/lipinor/two-stroke-qhe-vqt).
+
+Also, if you have any questions, feel free to contact me!
