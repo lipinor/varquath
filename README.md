@@ -1,6 +1,6 @@
 # VarQuaTh
 
-Hello! My name is Filipe, this is a project I wrote, VarQuaTh. Its goal is to make it easier to implement the [Variational Quantum Thermalizer](https://arxiv.org/abs/1910.02071) 
+Hello! My name is Filipe, and this is quantum computing project I wrote, VarQuaTh. Its goal is to make it easier to implement the [Variational Quantum Thermalizer](https://arxiv.org/abs/1910.02071) 
 algorithm within the IBM Qiskit framework.
 
 You can check the tutorial to learn how to use it with some examples.
